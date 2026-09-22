@@ -1,1 +1,2 @@
 Student: Stankevitch Ivan
+Group: 472302
