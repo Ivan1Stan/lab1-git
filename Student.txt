@@ -1,3 +1,4 @@
 Student: Stankevitch Ivan
 Group: 472302
 Faculty: IEF
+Speciality: ISIT
